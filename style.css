@@ -1,0 +1,12 @@
+.grid-container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+
+}
+.grid-img-1{
+    background-image:url(Images/2.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+}
